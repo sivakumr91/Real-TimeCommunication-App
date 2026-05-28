@@ -1,0 +1,4 @@
+Folders created as requested for CodeAlpha_RealTimeCollabApp.
+client/public, client/src/{assets,components,pages,context,services,routes,styles}
+server/{config,controllers,middleware,models,routes,sockets,uploads,utils}
+
